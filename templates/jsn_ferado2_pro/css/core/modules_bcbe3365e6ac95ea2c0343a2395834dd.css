@@ -1,5 +1,5 @@
 body#sunfw-master .module-style-1 {
-  background-color: custom;
+  background: custom;
 }
 body#sunfw-master .module-style-1 .module-title .box-title {
   background: #f9f9f9;
@@ -21,7 +21,7 @@ body#sunfw-master .module-style-1 .module-body a:hover, body#sunfw-master .modul
   color: #4bc6b1;
 }
 body#sunfw-master .module-style-2 {
-  background-color: custom;
+  background: custom;
 }
 body#sunfw-master .module-style-2 .module-title .box-title {
   background: #42b3a0;
@@ -37,7 +37,7 @@ body#sunfw-master .module-style-2 .module-body, body#sunfw-master .module-style-
   color: #394a5c;
 }
 body#sunfw-master .module-style-3 {
-  background-color: custom;
+  background: custom;
 }
 body#sunfw-master .module-style-3 .module-title .box-title {
   background: #e5e5e5;
@@ -53,7 +53,7 @@ body#sunfw-master .module-style-3 .module-body, body#sunfw-master .module-style-
   color: #394a5c;
 }
 body#sunfw-master .module-style-4 {
-  background-color: custom;
+  background: custom;
 }
 body#sunfw-master .module-style-4 .module-title .box-title {
   background: #394a5c;

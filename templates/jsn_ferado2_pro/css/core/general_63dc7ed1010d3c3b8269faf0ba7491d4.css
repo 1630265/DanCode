@@ -7,7 +7,7 @@ body {
   line-height: 1.5;
 }
 a {
-  color: #f45245;
+  color: #45a4e7;
 }
 a:hover, a:focus {
   color: #f76f64;
@@ -38,7 +38,7 @@ h6, .h6 {
   font-size: 12px;
 }
 .btn-default {
-  background-color: #717f8e;
+  background: #717f8e;
   font-size: 14px;
   color: #fff;
   font-weight: 400;
@@ -54,10 +54,10 @@ h6, .h6 {
 }
 .btn-primary {
   border-style: none;
-  border-color: #f76f64;
+  border-color: #60b4f0;
 }
 .btn-primary {
-  background-color: #f45245;
+  background: #45a4e7;
   color: custom;
   font-size: 14px;
   font-weight: 400;
@@ -69,5 +69,5 @@ h6, .h6 {
   color: custom;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.active {
-  background-color: #f76f64;
+  background-color: #60b4f0;
 }

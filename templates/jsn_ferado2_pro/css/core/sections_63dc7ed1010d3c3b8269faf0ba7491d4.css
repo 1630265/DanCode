@@ -4,14 +4,21 @@
 #sunfw_section_content-top-below {
   background-color: custom;
 }
+#sunfw_section_content-top-below .btn-primary {
+  background-color: #45a4e7;
+  border-style: none;
+  border-color: #60b4f0;
+  color: custom;
+}
+#sunfw_section_content-top-below .btn-primary:hover {
+  background-color: #60b4f0;
+  color: custom;
+}
 #sunfw_section_content-top-full {
-  background-color: #f7f7f7;
+  background-color: #ededed;
 }
 #sunfw_section_content-bottom {
   background-color: custom;
-}
-#sunfw_section_bottom {
-  background-color: #f45245;
 }
 #sunfw_section_footer {
   background-color: #202020;
@@ -25,7 +32,7 @@
   color: #5b728a;
 }
 #sunfw_section_footer a:hover {
-  color: #f45245;
+  color: #45a4e7;
 }
 #sunfw_section_copyright {
   background-color: #202020;
@@ -55,22 +62,20 @@
   font-size: 10px;
 }
 #sunfw_section_copyright a {
-  color: #f45245;
+  color: #45a4e7;
 }
 #sunfw_section_copyright a:hover {
-  color: #f76f64;
-}
-#sunfw_section_content-bottom-over {
-  background-color: custom;
+  color: #60b4f0;
 }
 #sunfw_section_content-top-over {
   background-color: #f0f2f5;
 }
 #sunfw_section_header {
-  background-color: #f45245;
+  background-color: #45a4e7;
 }
 #sunfw_section_content-bottom-below {
   background-color: custom;
+  background-image: url("../../../../images/Ready_to_purchase.jpg");
 }
 #sunfw_section_topbar {
   background-color: #000;
@@ -103,17 +108,7 @@
   color: #838382;
 }
 #sunfw_section_topbar a:hover {
-  color: #f76f64;
-}
-#sunfw_section_topbar .btn-primary {
-  background-color: #f45245;
-  border-style: none;
-  border-color: #f76f64;
-  color: #f76f64;
-}
-#sunfw_section_topbar .btn-primary:hover {
-  background-color: #f76f64;
-  color: #f76f64;
+  color: #60b4f0;
 }
 #sunfw_section_footer-newsletter {
   background-color: #313131;

@@ -1,0 +1,154 @@
+/* PLEASE BE VERY CAREFUL WHEN EDITTING THIS FILE !
+ Don't change our color variables in line 5 & 6.
+ */
+.profile-edit .btn#helpsite-refresh span, .sunfw-homepage #sunfw_section_content .item-title a {
+  color: #45a4e7;
+}
+p.readmore .btn {
+  background-color: #45a4e7;
+}
+.customer-name {
+  color: #45a4e7;
+}
+ul.sunfw-tpl-menu > li.megamenu ul.sunfw-megamenu-sub-menu .modulecontainer h3 {
+  color: #45a4e7;
+  border-bottom: 1px solid #45a4e7;
+}
+.sunfw-scrollup:hover {
+  background-color: #45a4e7;
+}
+#sunfw_section_copyright .social li:hover i {
+  color: #45a4e7;
+}
+.galleria-info .galleria-info-description a.ferado-btn {
+  background-color: #45a4e7;
+}
+.galleria-info .galleria-info-description a.ferado-btn:hover {
+  color: #45a4e7;
+}
+.heading-border {
+  border-bottom: 2px solid #45a4e7;
+}
+.pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus, .pagination > .active > span, .pagination > .active > span:hover, .pagination > .active > span:focus {
+  background-color: #45a4e7;
+  border-color: #45a4e7;
+}
+.pagination > li > a:hover, .pagination > li > a:focus, .pagination > li > span:hover, .pagination > li > span:focus {
+  color: #45a4e7;
+}
+div.module-style ul.menu-sidemenu li:hover > a, div.module-style ul.menu-sidemenu li.active > a {
+  color: #45a4e7;
+}
+.coming-soon a.goto-home {
+  color: #45a4e7;
+}
+.coming-soon a.goto-home:hover {
+  color: #45a4e7;
+  text-decoration: underline;
+}
+#kunena .kfrontend .btn-link {
+  color: #45a4e7;
+}
+[class*='module-style-'] .module-body ul.small li.active > a, .btn.btn-plain:hover, .feed ul.newsfeed > li span.feed-link a, .commin .date-item span.text, .jsn-counter-wrap .number {
+  color: #45a4e7;
+}
+@media (min-width: 768px) {
+  .hl-title .ferado-heading:before {
+    background: url(../images/header-wings.png) no-repeat 1px #45a4e7;
+  }
+  .hl-title .ferado-heading:after {
+    background: url(../images/header-wings.png) no-repeat -301px #45a4e7;
+  }
+}
+@media (max-width: 991px) {
+  .search .search-results .result-title a {
+    color: #45a4e7;
+  }
+}
+h1.category-title span {
+  background: #45a4e7;
+}
+.back-to-category a.product-details, a.details, div.details {
+  background: #45a4e7;
+}
+.productdetails-view .vm-price-value span {
+  color: #45a4e7;
+}
+.productdetails-view span.addtocart-button input.addtocart-button {
+  background: #45a4e7;
+}
+.chzn-container .chzn-results .highlighted {
+  background: #45a4e7;
+}
+.productdetails-view .information_tabs ul.tabs li.active a {
+  border-color: #45a4e7;
+}
+span.details-button input.details-button {
+  background: #45a4e7;
+}
+button.vm-button-correct {
+  background: #45a4e7;
+}
+.control-buttons button.default {
+  background: #45a4e7;
+}
+.manufacturer-product-link a {
+  background: #45a4e7;
+}
+#vmCartModule div.show_cart a {
+  background: #45a4e7;
+}
+#fancybox-content .showcart {
+  background-color: #45a4e7;
+}
+#com-form-login input.default {
+  background: #45a4e7;
+}
+.p-info .addtocart-area .addtocart-button:hover, .p-info .addtocart-area .addtocart-button:hover {
+  background: #1a7fc6;
+}
+ul.vmproduct.productdetails li .p-info:before, .vm-product-media-container .p-info:before {
+  background: #45a4e7;
+}
+.category_box_wrapper.list .category_box_inside .category_product_title h3 a {
+  color: #45a4e7;
+}
+.product_detail .product_price {
+  color: #45a4e7;
+}
+.product_detail .manufacturer_link a.btn.btn-primary, .product_detail .ask_question_about_product a.btn.btn-primary, .product_detail .product_writereview a.btn.btn-primary {
+  color: #45a4e7;
+}
+div.mod_cart_main div.mod_cart_checkout a {
+  background: #45a4e7;
+}
+.spacer .p-mask .sku_wrapper .sku a {
+  color: #45a4e7;
+}
+.product_detail .gd_navigation a {
+  color: #45a4e7;
+}
+form#askQuestionForm .redshop-askquestion .send_button input.btn {
+  background-color: #45a4e7;
+}
+.mod_redshop_products_wrapper .mod_redshop_products_horizontal .mod_rs_info:before, .category_box_wrapper.grid .category_box_inside .category_product_info:before {
+  background: #45a4e7;
+}
+.mod_redshop_products_wrapper .mod_redshop_products_horizontal .mod_rs_info .mod_redshop_products_addtocart form span.pdaddtocart_img_link:hover {
+  background: #1a7fc6;
+}
+.category_box_wrapper.grid .category_box_inside .category_product_info .category_product_addtocart span.pdaddtocart_link:hover {
+  background: #1a7fc6 !important;
+}
+.sunfw-com-redshop form .product_search .product_search_button input#Search {
+  background-color: #45a4e7;
+}
+.mod_redshop_products_wrapper .mod_redshop_products_horizontal .mod_rs_products_content .mod_redshop_products_readmore a {
+  color: #45a4e7;
+}
+.wishlist_link a.redshop-wishlist-form-link:hover:after {
+  color: #45a4e7;
+}
+nav.sunfw-menu-head ul.navbar-nav > li > span.nav-header:hover {
+  background-color: #60b4f0;
+}

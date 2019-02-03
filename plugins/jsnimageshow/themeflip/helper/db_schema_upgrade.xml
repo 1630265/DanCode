@@ -1,0 +1,29 @@
+<product name="Theme Flip" type="plugin">
+	<version number="1.0.0">
+		<release_date>12/19/2016</release_date>
+		<tables>
+			<table id="1" status="ADDED" name="#__imageshow_theme_flip">
+				<field id="1" status="ADDED" name="theme_id" type="int(11) unsigned" primary_key="yes"/>
+				<field id="2" status="ADDED" name="show_title" type="char(20)"/>
+				<field id="3" status="ADDED" name="apply_link_title" type="char(20)"/>
+				<field id="4" status="ADDED" name="open_link_in" type="char(150)"/>
+				<field id="5" status="ADDED" name="title_css" type="TEXT"/>
+				<field id="6" status="ADDED" name="caption_show_description" type="char(150)"/>
+				<field id="7" status="ADDED" name="description_limit" type="char(20)"/>
+				<field id="8" status="ADDED" name="description_css" type="TEXT"/>
+				<field id="9" status="ADDED" name="caption_css" type="TEXT"/>
+				<field id="10" status="ADDED" name="img_layout" type="char(20)"/>
+				<field id="11" status="ADDED" name="background_color" type="char(30)"/>
+				<field id="12" status="ADDED" name="background_color_right" type="char(30)"/>
+				<field id="13" status="ADDED" name="container_transparent_background" type="char(20)"/>
+				<field id="14" status="ADDED" name="container_transparent_background_right" type="char(20)"/>
+				<field id="15" status="ADDED" name="auto_play" type="char(20)"/>
+				<field id="16" status="ADDED" name="slide_timing" type="char(150)"/>
+				<field id="17" status="ADDED" name="padding" type="char(20)"/>
+				<field id="18" status="ADDED" name="closed" type="char(20)"/>
+				<field id="19" status="ADDED" name="show_page_number" type="char(20)"/>
+				<field id="20" status="ADDED" name="speed" type="char(20)"/>
+			</table>
+		</tables>
+	</version>
+</product>

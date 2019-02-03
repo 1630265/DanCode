@@ -1,0 +1,23 @@
+CREATE TABLE IF NOT EXISTS `#__imageshow_theme_flip` (
+  `theme_id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `show_title` char(20) DEFAULT 'yes',
+  `apply_link_title` char(20) DEFAULT 'yes',
+  `open_link_in` char(150) DEFAULT 'current_browser',
+  `title_css` TEXT DEFAULT '',
+  `caption_show_description` char(150) DEFAULT 'yes',
+  `description_limit` char(20) DEFAULT '50',
+  `description_css` TEXT DEFAULT '',
+  `caption_css` TEXT DEFAULT '',
+  `img_layout` char(20) DEFAULT 'cover',
+  `background_color` char(30) DEFAULT '#FFFFFF',
+  `background_color_right` char(30) DEFAULT '#EEEEEE',
+  `container_transparent_background` char(150) DEFAULT 'no',
+  `container_transparent_background_right` char(150) DEFAULT 'no',
+  `auto_play` char(20) DEFAULT 'no',
+  `slide_timing` char(20) DEFAULT '3',
+	`padding` CHAR(20) DEFAULT '10',
+	`closed` CHAR(20) DEFAULT 'no',
+	`show_page_number` CHAR(20) DEFAULT 'yes',
+	`speed` CHAR(20) DEFAULT '500',
+  PRIMARY KEY (`theme_id`)
+) DEFAULT CHARSET=utf8;
